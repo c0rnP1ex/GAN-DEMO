@@ -1,0 +1,4 @@
+/images
+/images_gen
+/__pycache__
+*.pth
